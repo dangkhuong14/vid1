@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 2 ko la so nguyen to 
+=======
+
+>>>>>>> 2b02ccb9f4e8c988feab9fdf671064841a54e828
 
 3 la so nguyen to be thu hai
